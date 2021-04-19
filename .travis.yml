@@ -3,7 +3,6 @@ sudo: required
 
 jdk:
   - openjdk11
-  -
 
 # Install the rpmbuild tool we need.
 before_install:
